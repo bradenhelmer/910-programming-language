@@ -1,4 +1,4 @@
-# 910-programming-language
+# 910 Programming Language
 A general purpose, interpreted programming language written in C.
 
 # Introduction

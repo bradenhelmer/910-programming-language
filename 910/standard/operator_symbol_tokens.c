@@ -9,7 +9,7 @@ enum ARTITHMETIC_OPERATOR_SYMBOLS {
     DIVIDE = '/',
     EXPONENT = '^',
     INTEGER_DIVISION = '//',
-    MODULUS = '\%'
+    MODULUS = '%'
 };
 
 enum LOGICAL_OPERATOR_SYMBOLS {
